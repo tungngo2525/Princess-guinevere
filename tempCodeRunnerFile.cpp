@@ -1,0 +1,1 @@
+HP = floor(HP / 5);
