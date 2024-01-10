@@ -1,6 +1,5 @@
 #include "knight.h"
-// Anh Nguyen : 2/3 - 12:30
-//--------------------------
+
 void initStatus(string line , int *wordlst){
     int index = 0;
     int tmp;
